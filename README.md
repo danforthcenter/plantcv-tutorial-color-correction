@@ -1,5 +1,7 @@
 # Color Correction Tutorial
 
+[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-color-correction/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-color-correction/actions/workflows/ci-tests.yml)
+
 Example use of affine color correction method in PlantCV image analysis.
 
 

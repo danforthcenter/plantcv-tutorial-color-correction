@@ -9,7 +9,7 @@ Example use of affine color correction method in PlantCV image analysis.
 
 ## Tutorial tags/keywords
 
-color correction, tutorial
+color correction, tutorial, standardization
 
 ## Citations
 
